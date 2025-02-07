@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t}from"./chunks/framework.DFDi2gAL.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"personal-resume.md","filePath":"personal-resume.md"}'),a={name:"personal-resume.md"};function s(o,n,c,p,m,l){return t(),r("div")}const i=e(a,[["render",s]]);export{d as __pageData,i as default};
